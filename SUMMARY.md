@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Effective Java note](README.md)
 * Untitled
 
